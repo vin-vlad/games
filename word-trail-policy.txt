@@ -1,0 +1,37 @@
+TERMS OF SERVICE
+Effective Date: April 1, 2026
+
+These Terms of Service ("Terms") govern your use of our mobile game ("the Game"). By downloading or playing the Game, you agree to be bound by these Terms. If you do not agree, do not use the Game.
+1. Eligibility
+The Game is available to users of all ages. Users under the age of 13 must have verifiable parental or guardian consent before playing. By allowing a child to use the Game, a parent or guardian agrees to these Terms on their behalf. Users between 13 and 18 years of age should review these Terms with a parent or guardian.
+2. License
+We grant you a limited, non-exclusive, non-transferable, revocable license to download and play the Game on your personal mobile device for personal, non-commercial use, subject to these Terms.
+3. Prohibited Conduct
+You agree not to:
+Cheat, hack, or use unauthorized third-party software to manipulate the Game
+Exploit bugs or glitches in a way that harms other players or the integrity of leaderboards
+Attempt to reverse engineer, decompile, or disassemble any part of the Game
+Use the Game for any unlawful purpose
+Impersonate any person or entity
+Interfere with or disrupt the Game's servers or networks
+4. Leaderboards & Game Center / Google Play
+The Game includes leaderboard features powered by Apple Game Center and Google Play Games Services. Your participation in these features is also subject to Apple's and Google's Terms of Service respectively. We reserve the right to remove scores or ban accounts that we determine, in our sole discretion, have been obtained through cheating or exploitation.
+5. Advertisements
+The Game is free to play and supported by advertising via Google AdMob. By playing the Game, you consent to the display of advertisements. Advertising shown to children under 13 will be limited to non-personalized, child-directed content in accordance with applicable laws.
+6. Intellectual Property
+All content in the Game, including but not limited to graphics, audio, characters, code, and gameplay, is owned by us or our licensors and is protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works based on the Game without our express written permission.
+7. Disclaimer of Warranties
+THE GAME IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE GAME WILL BE ERROR-FREE OR UNINTERRUPTED.
+8. Limitation of Liability
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM YOUR USE OF THE GAME, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE GAME (IF ANY) IN THE TWELVE MONTHS PRECEDING THE CLAIM.
+9. Termination
+We reserve the right to suspend or terminate your access to the Game at any time, for any reason, including violation of these Terms. Upon termination, your license to use the Game immediately ends.
+10. Changes to Terms
+We may modify these Terms at any time. We will notify you by updating the effective date above. Continued use of the Game after changes constitutes your acceptance of the revised Terms.
+11. App Store Compliance 
+This Application is distributed via the App Store. By using the Application, you agree to the following: The Application is licensed, not sold, to you for use on Apple-branded devices that you own or control, subject to the App Store Terms of Service. This agreement is between you and the Service Provider only, not with Apple. Apple is not responsible for the Application or its content. The Service Provider is solely responsible for providing maintenance and support for the Application. Apple has no obligation to provide any maintenance or support services. Apple is not responsible for any product warranties, whether express or implied. In the event of any failure of the Application to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price (if any). To the maximum extent permitted by law, Apple will have no other warranty obligation. The Service Provider, not Apple, is responsible for addressing any claims relating to the Application, including but not limited to: product liability claims claims that the Application fails to conform to legal requirements claims arising under consumer protection laws You agree to comply with all applicable third-party terms of agreement when using the Application. You represent and warrant that: You are not located in a country subject to a U.S. Government embargo You are not listed on any U.S. Government list of prohibited or restricted parties Apple and its subsidiaries are third-party beneficiaries of these Terms and have the right to enforce them.
+12. Contact Us
+For questions about these Terms, please contact us at:
+Vladyslav Palamarchuk
+vpalamarchuk.gg@gmail.com
+c. Carreras I Candi 64, Barcelona, Spain, 08028
