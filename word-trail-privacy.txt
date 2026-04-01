@@ -1,0 +1,50 @@
+PRIVACY POLICY
+Effective Date: April 1, 2026
+
+This Privacy Policy explains how we collect, use, and protect information when you use our mobile game ("the Game"). By playing the Game, you agree to the practices described below.
+1. Information We Collect
+1.1 Information Collected Automatically
+When you play the Game, certain information is collected automatically, including:
+Device type, operating system, and unique device identifiers
+Gameplay data such as scores, levels completed, and session duration
+Crash logs and performance data for debugging purposes
+Advertising identifiers (e.g., IDFA on iOS, GAID on Android)
+1.2 Game Center & Google Play Games
+If you sign in to Apple Game Center (iOS) or Google Play Games (Android), we may receive your public profile information, leaderboard scores, and achievements as provided by those platforms. Your use of these services is also governed by Apple's and Google's respective privacy policies.
+1.3 Information from Advertising (AdMob)
+The Game uses Google AdMob to display advertisements. AdMob may collect and use data including your advertising identifier and general location to serve relevant ads. For more information, please review Google's Privacy Policy at https://policies.google.com/privacy.
+2. Children's Privacy (COPPA Compliance)
+We take children's privacy seriously. The Game is accessible to users under the age of 13, and we comply with the Children's Online Privacy Protection Act (COPPA).
+We do not knowingly collect personal information (such as name, email address, or precise location) from children under 13 without verifiable parental consent.
+Advertising shown to users identified as children under 13 is limited to non-personalized (contextual) ads only. We have configured AdMob to serve child-directed content in compliance with applicable laws.
+Game Center and Google Play leaderboard features may be restricted or require parental controls depending on the device settings.
+If you are a parent or guardian and believe your child has provided personal information without your consent, please contact us at the email address below and we will promptly delete such information.
+3. How We Use Information
+We use the information we collect to:
+Operate and improve the Game
+Display advertisements (including contextual ads for younger users)
+Maintain leaderboards and track achievements
+Diagnose technical issues and fix bugs
+Comply with legal obligations
+4. Data Sharing
+We do not sell your personal information. We may share data with:
+Google (AdMob, Google Play Games): for advertising and leaderboard services
+Apple (Game Center): for leaderboard and achievement services
+Analytics providers: for aggregated, anonymized usage statistics
+Law enforcement or regulators: when required by law
+5. Data Retention
+We retain gameplay and analytics data for as long as necessary to provide the Game and improve our services. You may request deletion of your data by contacting us.
+6. Your Rights
+Depending on your location, you may have the right to access, correct, or delete your personal data, or to opt out of certain data uses. To exercise these rights, please contact us at the address below. For California residents, please see our CCPA notice. For EU/EEA residents, you have rights under the GDPR.
+7. Security
+We implement reasonable technical and organizational measures to protect your information. However, no method of transmission or storage is 100% secure.
+8. Third-Party Links and Services
+The Game may contain links to or integrations with third-party services (Google, Apple). We are not responsible for the privacy practices of those services and encourage you to review their policies.
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of material changes by updating the effective date above. Continued use of the Game after changes constitutes acceptance of the updated policy.
+10. Contact Us
+If you have questions about this Privacy Policy or wish to exercise your rights, please contact us at:
+Vladyslav Palamarchuk
+vpalamarchuk.gg@gmail.com
+c. Carreras I Candi 64, Barcelona, Spain, 08028
+
